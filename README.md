@@ -41,3 +41,23 @@ weather-forecasting
 - Mean Squared Error (MSE)
 
 Example output:
+Mean Squared Error on Forecast: 2.31
+
+## Final Output
+
+A forecast line was plotted alongside actual values for the last 30 days to visualize model performance.
+
+## How to Run
+
+1. Clone this repository  
+2. Place `weatherHistory.csv` in the same folder as the notebook  
+3. Open `weather_forecasting.ipynb` in Jupyter Notebook or Google Colab  
+4. Run all the cells in order  
+
+## Author
+
+Talasila Navya Annapurna  
+
+GitHub: https://github.com/NavyaTalasila5  
+
+LinkedIn: https://www.linkedin.com/in/navya-talasila-3134a1325/
